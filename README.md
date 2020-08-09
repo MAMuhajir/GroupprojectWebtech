@@ -14,14 +14,14 @@ Group Member
 |     SYAHMI AMIN                |     1918793        |
 
 
+|     Name                                                                            |     Contributions                                                                                                                      |
+|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     Mohammad Afif Muhajir     (special role: coordinator of project, integrator)    |     Pages and elements: Homepage, Related Corner,  style_homepage.css, indexJS.js, relatedJS.js                                        |
+|     Al Amin Shishir                                                                 |     Pages and elements: Category, Registration or login   page,     style_category_login.css, categoryform.js                          |
+|     Ontor Md Afzal Hossan                                                           |     Pages and elements: Contact Us, Enquiry or Contact   Us Form, style_contact_us_enquiry.css, enquiryscript.js                       |
+|     Syahmi Amin *this brother has handicap (just had   eye surgery)                 |     Pages and elements: Downloads, Free books,     style_downloads.css, EBooks.css, downloadscript.js,   scriptbooks.js                |
+|     Imran                                                                           |     Pages and elements: About Us, Accessibility, Hot   Topic, Site Map, Service, Copyright Statement,  Privacy,  style_about_us.css    |
 
-|     Name                                                               |     Contributions                                                                                                                                                      |
-|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Mohammad Afif Muhajir                                              |     Pages: Homepage, Related Corner   ||  Other elements: style_homepage.css, indexJS.js,   relatedJS.js     Special role: overseer of project, integrator of   pages    |
-|     Al Amin Shishir                                                    |     Pages: Category, Registration or login page   ||  Other elements: style_category_login.css,   categoryform.js                                                        |
-|     Ontor Md Afzal Hossan                                              |     Pages: Contact Us, Enquiry or Contact Us Form   ||  Other elements: style_contact_us_enquiry.css,   enquiryscript.js                                                 |
-|     Syahmi Amin *this brother has handicap (just had   eye surgery)    |     Pages: Downloads, Free books    || Other elements: style_downloads.css, EBooks.css,   downloadscript.js, scriptbooks.js                                              |
-|     Imran                                                              |     Pages: About Us, Accessibility, Hot Topic, Site   Map, Service, Copyright Statement, and Privacy.   ||  Other elements: style_about_us.css                           |
  
 Most references are from w3schools:
 https://www.w3schools.com/css/css_navbar.asp
