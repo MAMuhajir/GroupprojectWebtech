@@ -4,6 +4,14 @@
   height: 300px;
 }
 
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+
+.w3-badge {height:13px;width:13px;padding:0}
+
+.featured_books{
+  border: solid black 5px;
+}
+
 .midelement{
   width: 60%;
   margin:auto;
@@ -34,4 +42,12 @@
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
   color: #f1f1f1;
+}
+.mySlides {display:none;}
+
+.featured_books {
+  margin: auto;
+}
+body {
+  background-image: url("../img/grey_cement.jpg");
 }

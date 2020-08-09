@@ -34,7 +34,7 @@
 .div1{
     max-width: 1000px;
     background-color:#EBEDEF;  padding:10px;
-  
+
     float: left;
 
 }
@@ -119,4 +119,7 @@ font-weight: bold;
   background-color:#EBEDEF; margin:0px auto; padding:10px;
 float: left;
 position: relative;
+}
+.body{
+  background-image: url('../img/grey_cement.jpg');
 }
